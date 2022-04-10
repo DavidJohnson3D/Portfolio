@@ -1,7 +1,8 @@
-## Welcome to my portfolio site
+## David Johnson Student Portfolio 2022
 
 
-### Markdown
+![This is an image]()
+### Hello!
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
